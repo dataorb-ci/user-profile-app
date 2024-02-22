@@ -1,7 +1,7 @@
 {
     "name": "user-profile-app",
     "version": "30.3.30",
-    "description": "User Profile App for DHIS2",
+    "description": "User Profile App for DataOrb",
     "license": "BSD-3-Clause",
     "scripts": {
         "build": "d2-app-scripts build",

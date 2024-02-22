@@ -2,7 +2,7 @@
   "appType": "APP",
   "short_name": "user-profile",
   "name": "User Profile",
-  "description": "User Profile App for DHIS2",
+  "description": "User Profile App for DataOrb",
   "version": "30.3.30",
   "core_app": true,
   "launch_path": "index.html",
