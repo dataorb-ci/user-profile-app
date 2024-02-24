@@ -1,8 +1,8 @@
 {
   "appType": "APP",
-  "short_name": "user-profile",
-  "name": "User Profile",
-  "description": "User Profile App for DataOrb",
+  "short_name": "user-profile-pro",
+  "name": "User Profile Pro",
+  "description": "User Profile Pro App for DataOrb",
   "version": "30.3.30",
   "core_app": true,
   "launch_path": "index.html",

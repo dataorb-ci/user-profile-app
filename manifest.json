@@ -1,7 +1,7 @@
 {
-  "short_name": "User Profile",
-  "name": "User Profile",
-  "description": "User Profile App for DataOrb",
+  "short_name": "User Profile Pro",
+  "name": "User Profile Pro",
+  "description": "User Profile Pro App for DataOrb",
   "icons": [
     {
       "src": "android-chrome-192x192.png",
